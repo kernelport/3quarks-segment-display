@@ -1,0 +1,29 @@
+{
+  "name": "3quarks-segment-display",
+  "version": "0.0.2",
+  "description": "segment display Web App",
+  "main": "index.js",
+  "directories": {
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "files": [
+    "segment-display.js"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kernelport/3quarks-segment-display.git"
+  },
+  "keywords": [
+    "segment",
+    "display"
+  ],
+  "author": "ruebecca Turne.ppel (at) me.com",
+  "license": "CCPL",
+  "bugs": {
+  },
+  "homepage": "http://www.3quarks.com/en/SegmentDisplay/index.html"
+}
